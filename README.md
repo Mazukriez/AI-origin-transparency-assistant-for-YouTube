@@ -1,6 +1,7 @@
 # AI-origin-transparency-assistant-for-YouTube
 Adds AI-origin status labels beside YouTube video titles.
 I've prepared the YouTube AI Labeler MVP as a Chrome and Microsoft Edge browser extension. You can install it locally and test it on YouTube.
+<img width="1846" height="812" alt="image" src="https://github.com/user-attachments/assets/c1a87f20-e8cb-456c-b03b-74f65396ba6b" />
 
 YouTube AI Labeler — MVP v0.1
 
